@@ -8,8 +8,8 @@ class Program
 
         Console.WriteLine($"Sum: {result}");
 
-        string message = GetMessage("Mandil is good");
-        Console.WriteLine(message);
+        string message = GetMessage("Mandil is good boy");
+        Console.WriteLine(message); 
     }
 
     static int AddNumbers(int a, int b)
