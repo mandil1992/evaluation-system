@@ -8,7 +8,7 @@ class Program
 
         Console.WriteLine($"Sum: {result}");
 
-        string message = GetMessage("Mandil");
+        string message = GetMessage("Mandil is");
         Console.WriteLine(message);
     }
 
